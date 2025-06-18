@@ -1,5 +1,5 @@
-# Face-Detection-with-Name-Recognition
-Python face detection with name of the person and training of the dataset to recognize the face of the person
+# Image classification based on face recognition
+Python Image classification based on facial recognition with name of the person and training of the dataset to recognize the face of the person.
 # Steps
 <ol>
   <li>Run the 01_face_dataset.py</li>
